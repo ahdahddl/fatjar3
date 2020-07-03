@@ -1,0 +1,5 @@
+[2020-07-03 15:28:55]  INFO (fatjar3.PropertiesWithJavaConfig - handler:32) - xxx
+[2020-07-03 15:31:45]  INFO (fatjar3.PropertiesWithJavaConfig - handler:32) - xxx
+[2020-07-03 15:31:45]  INFO (fatjar3.Fatjar3Application - main:19) - Started!!
+[2020-07-03 15:32:25]  INFO (fatjar3.PropertiesWithJavaConfig - handler:32) - xxx
+[2020-07-03 15:32:26]  INFO (fatjar3.Fatjar3Application - main:19) - Started!!
